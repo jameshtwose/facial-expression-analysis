@@ -1,0 +1,13 @@
+Input:face_expressions.mp4
+Input full path:/home/openface-build/build/bin/face_expressions.mp4
+Camera parameters:875,875,640,360
+Output HOG:face_expressions.hog
+Output video:face_expressions.avi
+Output aligned directory:face_expressions_aligned
+Output csv:face_expressions.csv
+Gaze: 1
+AUs: 1
+Landmarks 2D: 1
+Landmarks 3D: 1
+Pose: 1
+Shape parameters: 1
